@@ -9,7 +9,7 @@
   "homepage": "https://github.com/M-ghalevand/utils",
   "repository": {
     "type": "git",
-    "url": "https://github.com/M-ghalevand/utils"
+    "url": "git+https://github.com/M-ghalevand/utils.git"
   },
   "license": "ISC",
   "description": "",
