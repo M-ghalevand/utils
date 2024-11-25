@@ -1,7 +1,6 @@
 {
-  "name": "@manouchehr-ghale/utils",
-  "version": "1.0.0",
-  "private": "true",
+  "name": "m_ghalevand-utils",
+  "version": "1.0.1",
   "main": "./src/index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,7 +8,12 @@
   "keywords": [
     "utils"
   ],
-  "author": "",
+  "author": "Manouchehr Ghalevand m.ghalevand@outlook.com",
+  "homepage": "https://github.com/M-ghalevand/utils",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/M-ghalevand/utils"
+  },
   "license": "ISC",
   "description": "",
   "dependencies": {
