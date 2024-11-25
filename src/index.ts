@@ -1,0 +1,1 @@
+export {thousandSeparate} from  "./thousand-separate"
