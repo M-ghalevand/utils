@@ -1,5 +1,5 @@
 {
-  "name": "m_ghalevand-utils",
+  "name": "mghalevand-utils",
   "version": "1.0.3",
   "main": "./src/index.ts",
   "keywords": [
