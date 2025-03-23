@@ -1,1 +1,1 @@
-export {thousandSeparate} from  "./thousand-separate"
+export * from "./thousand-separate"
